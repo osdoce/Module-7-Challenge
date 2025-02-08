@@ -30,3 +30,6 @@ You have to run the app to verify that works.
 If you have any questions, feel free to reach out:
 - [GitHub](https://github.com/osdoce)
 - [Email](mailto:110186@gmail.com)
+
+## Walkthrough video 
+Watch the video here: https://drive.google.com/drive/u/0/folders/1FTmnQBOfqONeR8QJfXMMH773r4gZNEJI
