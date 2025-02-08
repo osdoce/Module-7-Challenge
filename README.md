@@ -1,7 +1,7 @@
 # Module 7 README Generator
 
 ## Description
-This is a command line app that generates a README.md file based in questions using Inquierer package.
+This is a command line app that generates a README.md file based in questions using inquierer package
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,19 +12,19 @@ This is a command line app that generates a README.md file based in questions us
 - [Questions](#questions)
 
 ## Installation
-After cloning the repo, open the project folder and run: npm install
+Clone the repo, open the project and run: npm install
 
 ## Usage
-We must run this command in the terminal: node.index.js 
+we must run this command in the terminal: node.index.js
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
-Everybody can contribute in the improvement of this project, it is just needed to clone the repo and make any contribution. Clone the branch, make changes and then submit your pull request.
+Everybody can contribute, just clone the repo and make any contributions.
 
 ## Tests
-Runing the app to verify that works.
+You have to run the app to verify that works.
 
 ## Questions
 If you have any questions, feel free to reach out:
