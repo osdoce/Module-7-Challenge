@@ -32,4 +32,4 @@ If you have any questions, feel free to reach out:
 - [Email](mailto:110186@gmail.com)
 
 ## Walkthrough video 
-Watch the video here: https://drive.google.com/drive/u/0/folders/1FTmnQBOfqONeR8QJfXMMH773r4gZNEJI
+Watch the video here: https://drive.google.com/file/d/1GZwKVKYYTNVgHMCPjsE8RW4vOAfSe9IL/view?usp=sharing
